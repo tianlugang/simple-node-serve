@@ -1,0 +1,16 @@
+{
+  "name": "@writ/simple-serve",
+  "version": "1.0.0",
+  "description": "a simple node.js service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}
